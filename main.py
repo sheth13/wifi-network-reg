@@ -1,2 +1,2 @@
-print "hahaha"
-print "m done"
+print("hahaha")
+print("m done")
